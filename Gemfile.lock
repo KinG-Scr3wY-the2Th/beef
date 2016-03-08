@@ -160,7 +160,7 @@ GEM
       test-unit
     test-unit-runner-tk (0.0.1)
       hoe (>= 1.6.0)
-    therubyracer (0.11.3)
+    therubyracer (0.11.0beta1)
       libv8 (~> 3.11.8.12)
       ref
     thin (1.6.4)
